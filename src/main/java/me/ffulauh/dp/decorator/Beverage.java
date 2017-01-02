@@ -1,0 +1,15 @@
+package me.ffulauh.dp.decorator;
+
+/**
+ * Created by ffulauh on 2016/12/25.
+ */
+public abstract class Beverage {
+
+    String description="Unknown Beverage";
+
+    public String getDescription(){
+        return description;
+    }
+
+    public abstract double cost();
+}
