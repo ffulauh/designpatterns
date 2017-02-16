@@ -1,4 +1,4 @@
-package me.ffulauh.dp.factory;
+package me.ffulauh.dp.factory.factorymethod;
 
 /**
  * Created by ffulauh on 2017/1/1.

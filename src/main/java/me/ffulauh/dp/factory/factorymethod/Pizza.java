@@ -1,4 +1,4 @@
-package me.ffulauh.dp.factory;
+package me.ffulauh.dp.factory.factorymethod;
 
 import java.util.ArrayList;
 
